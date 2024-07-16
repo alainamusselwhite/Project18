@@ -1,3 +1,5 @@
+//Alaina Musselwhite
+//U67724813
 import React, { useState } from 'react';
 import './App.css';
 import RateMovieButton from './RateMovieButton';
