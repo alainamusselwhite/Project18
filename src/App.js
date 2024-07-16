@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './App.css';
-import './styles/Toolbar.css';
 import RateMovieButton from './RateMovieButton';
 import MovieSelector from './MovieSelector';
 import UploadButton from './UploadButton';
